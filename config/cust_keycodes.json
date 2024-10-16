@@ -389,5 +389,22 @@
 		},
 		"footnotes": {},
 		"type": "UD"
+	},
+	{
+		"names": [
+			"C_AC_DESKTOP_SHOW_ALL_APPLICATIONS"
+		],
+		"description": "C_AC_DESKTOP_SHOW_ALL_APPLICATIONS",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
 	}
 ]
